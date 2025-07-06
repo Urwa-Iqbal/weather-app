@@ -1,6 +1,3 @@
-Here it is fully in markdown format for your README.md:
-
-````markdown
 # 🌤️ Weather App (Tkinter GUI)
 
 This is a Python GUI weather app built using Tkinter, OpenWeatherMap API, and GeoPy. It displays real-time weather details of any city including temperature, humidity, wind, description, and pressure.
@@ -62,8 +59,3 @@ pip install -r requirements.txt
 
 * The `.env` file is included in `.gitignore` to keep your API key secure
 * Make sure you have an active internet connection while using the app
-
-```
-
-Just save that as `README.md`!
-```
